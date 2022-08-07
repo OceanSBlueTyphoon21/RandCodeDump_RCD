@@ -1,2 +1,2 @@
-# FPGADum
+# FPGADump
 Contains FPGA development code
